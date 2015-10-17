@@ -1,0 +1,2 @@
+# stringcalculator
+Verkefni fyrir Hugb
